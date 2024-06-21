@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message Safety Classifier</title>
+    <style>
+       body, html {
+           font-family: Arial, sans-serif;
+           margin: 0;
+           padding: 0;
+           height: 100%;
+           background-image: url('/static/reg.png');
+           background-size: cover;
+           background-repeat: no-repeat;
+           background-attachment: fixed;
+       }
+       .overlay {
+           background-color: rgba(255, 255, 255, 0.8);
+           padding: 20px;
+           max-width: 600px;
+           margin: 0 auto;
+           border-radius: 10px;
+           box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+       }
+       h1 {
+           text-align: center;
+           color: #333;
+       }
+       form {
+           text-align: center;
+       }
+       textarea {
+           width: 100%;
+           padding: 10px;
+           margin: 10px 0;
+           border: 1px solid #ccc;
+           border-radius: 5px;
+           resize: none;
+       }
+       button {
+           background-color: #4CAF50;
+           color: white;
+           padding: 10px 20px;
+           border: none;
+           border-radius: 5px;
+           cursor: pointer;
+           font-size: 16px;
+       }
+       button:hover {
+           background-color: #45a049;
+       }
+       .result {
+           text-align: center;
+           margin-top: 20px;
+       }
+       .result h2 {
+           color: #333;
+       }
+       .links {
+           text-align: center;
+           margin-top: 20px;
+       }
+       .links a {
+           margin: 0 10px;
+           text-decoration: none;
+           color: #4CAF50;
+       }
+       .links a:hover {
+           text-decoration: underline;
+       }
+    </style>
+</head>
+<body>
+    <div class="overlay">
+        <h1>Message Safety Classifier</h1>
+        <div class="links">
+            <a href="/upload">Upload CSV File</a>
+            <a href="/fetch_messages">Fetch Telegram Messages</a>
+        </div>
+        <form action="/predict" method="post">
+            <textarea name="message" rows="4" placeholder="Enter your message here..."></textarea><br>
+            <button type="submit">Predict</button>
+        </form>
+        <div class="result">
+            {% if prediction_text %}
+                <h2>{{ prediction_text }}</h2>
+            {% endif %}
+        </div>
+        <div class="result">
+            {% if results %}
+                <h2>Uploaded CSV Results:</h2>
+                <ul>
+                    {% for result in results %}
+                        <li>{{ result['message'] }} - {{ result['prediction'] }}</li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        </div>
+        <form action="/logout" method="post">
+            <button type="submit">Logout</button>
+        </form>
+    </div>
+</body>
+</html>

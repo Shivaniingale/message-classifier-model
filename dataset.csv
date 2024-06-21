@@ -1,0 +1,1037 @@
+id,message,target
+1,"Hey, are you coming to the party tonight?",0
+2,Don't forget to bring your keys when you leave.,0
+3,"I lost my phone, can you help me find it?",0
+4,I will kill you if you don't pay me back!,1
+5,Let's meet at the usual spot after work.,0
+6,"Your account has been compromised, send details.",1
+7,"I'm feeling great today, how about you?",0
+8,You are going to regret this!,1
+9,Please call me when you get this message.,0
+10,"If you don't do this, you'll be sorry.",1
+11,Looking forward to our meeting tomorrow.,0
+12,"I've hacked your email, send me $1000 to get it back",1
+13,Can you pick up some groceries on your way home?,0
+14,Watch your back!,1
+15,I got the job! Let's celebrate tonight.,0
+16,"Hey, can you help me with my homework?",0
+17,You better watch out!,1
+18,Happy birthday! Have a great day!,0
+19,Your car is blocking my driveway.,0
+20,I'll make you disappear if you cross me again!,1
+21,Thanks for the help earlier!,0
+22,I'm going to destroy everything you care about.,1
+23,Let's have lunch together tomorrow.,0
+24,You're a dead man walking!,1
+25,See you at the game tonight!,0
+26,Meet me in front of the library at 5.,1
+27,I'll make sure you regret ever meeting me.,0
+28,Congratulations on your promotion!,1
+29,I know where you live.,0
+30,Don't worry about the deadline.,0
+31,Please let me know if you need anything.,1
+32,You won't make it out alive!,0
+33,"I'm free this weekend, let's catch up.",0
+34,I can't stand you anymore!,1
+35,Great job on the presentation today!,0
+36,You have no idea what's coming for you.,1
+37,Can you send me the report by tomorrow?,0
+38,I'll ruin your life!,1
+39,Let's go for a hike this Saturday.,0
+40,You're finished!,1
+41,I appreciate your support.,0
+42,You're going to wish you never met me.,1
+43,See you at the gym later.,0
+44,I'll break every bone in your body!,1
+45,I got the tickets for the concert.,0
+46,You're going to regret this decision.,1
+47,Have a safe trip!,0
+48,I'll haunt you forever.,1
+49,Looking forward to our vacation.,0
+50,I'll destroy your career.,1
+51,Let's grab coffee tomorrow.,0
+52,You're a joke!,1
+53,See you at the meeting.,0
+54,I'll make sure you pay for this.,1
+55,Good luck on your exam!,0
+56,You're worthless.,1
+57,Enjoy your weekend!,0
+58,I'll ruin everything you love.,1
+59,Take care and see you soon.,0
+60,You'll never be happy again.,1
+61,Thanks for your help today.,0
+62,You're done for!,1
+63,Let's catch up next week.,0
+64,I'll make your life miserable.,1
+65,Have a great evening!,0
+66,You're nothing without me.,1
+67,Congrats on your new job!,0
+68,I'll make you pay for this.,1
+69,See you tomorrow.,0
+70,You're a mistake.,1
+71,Good night and sweet dreams.,0
+72,I'll make sure you suffer.,1
+73,See you at the conference.,0
+74,You'll regret this for the rest of your life.,1
+75,Thanks for the invitation!,0
+76,You're going to pay for this.,1
+77,Have a nice day!,0
+78,I'll be waiting for you.,1
+79,See you at the party.,0
+80,You're in big trouble.,1
+81,Take care!,0
+82,You're going down.,1
+83,Have a great weekend!,0
+84,You're going to regret everything.,1
+85,Congratulations on your anniversary!,0
+86,I'll make sure you're punished.,1
+87,See you at the event.,0
+88,You won't get away with this.,1
+89,Good morning and have a great day!,0
+90,I'll make you cry.,1
+91,See you at the park.,0
+92,You're going to be sorry.,1
+93,Thanks for being there for me.,0
+94,I'll never forgive you.,1
+95,Have a fantastic day!,0
+96,I'll make you wish you were never born.,1
+97,Let's have dinner together.,0
+98,I'll end you.,1
+99,Enjoy the movie!,0
+100,You're in for a surprise.,1
+101,Let's go to the beach this weekend.,0
+102,I'll take everything from you.,1
+103,Happy holidays!,0
+104,You're going to suffer for this.,1
+105,Congratulations on your graduation!,0
+106,I'll make sure you pay.,1
+107,Have a wonderful evening!,0
+108,You'll never find peace.,1
+109,See you at the seminar.,0
+110,You're going to regret ever crossing me.,1
+111,Thanks for the great time!,0
+112,I'll destroy your happiness.,1
+113,See you at the training.,0
+114,You're going to pay dearly for this.,1
+115,Take care and see you soon!,0
+116,I'll make you wish you were dead.,1
+117,Good luck with your new project!,0
+118,You're a dead man.,1
+119,Let's go for a run tomorrow.,0
+120,You're going to regret this forever.,1
+121,See you at the match.,0
+122,I'll make sure you suffer for this.,1
+123,Have a great trip!,0
+124,You'll never see it coming.,1
+125,Thanks for the advice.,0
+126,I'll end you.,1
+127,Good luck with your interview!,0
+128,You're going to regret this choice.,1
+129,Let's go shopping this weekend.,0
+130,You're going to pay for this mistake.,1
+131,Have a fantastic weekend!,0
+132,I'll make sure you're punished for this.,1
+133,See you at the workshop.,0
+134,You're in big trouble now.,1
+135,Good morning and have a great week!,0
+136,I'll never let you live this down.,1
+137,See you at the lecture.,0
+138,You're going to wish you were never born.,1
+139,Thanks for the support!,0
+140,I'll make you pay for this dearly.,1
+141,See you at the conference next month.,0
+142,You're going to regret this so much.,1
+143,Take care and stay safe.,0
+144,I'll never let you forget this.,1
+145,Have a great time!,0
+146,You're going to pay for this.,1
+147,"Hey, are you coming to the party tonight?",0
+148,Don't forget to bring your keys when you leave.,1
+149,"I lost my phone, can you help me find it?",0
+150,I will kill you if you don't pay me back!,1
+151,Let's meet at the usual spot after work.,0
+152,"Your account has been compromised, send details.",1
+153,"I'm feeling great today, how about you?",0
+154,You are going to regret this!,1
+155,Please call me when you get this message.,0
+156,"If you don't do this, you'll be sorry.",1
+157,Looking forward to our meeting tomorrow.,0
+158,"I've hacked your email, send me $1000 to get it back",1
+159,Can you pick up some groceries on your way home?,0
+160,Watch your back!,1
+161,I got the job! Let's celebrate tonight.,0
+162,"Hey, can you help me with my homework?",0
+163,You better watch out!,0
+164,Happy birthday! Have a great day!,1
+165,Your car is blocking my driveway.,0
+166,I'll make you disappear if you cross me again!,1
+167,Thanks for the help earlier!,0
+168,I'm going to destroy everything you care about.,1
+169,Let's have lunch together tomorrow.,0
+170,You're a dead man walking!,1
+171,See you at the game tonight!,0
+172,Meet me in front of the library at 5.,1
+173,I'll make sure you regret ever meeting me.,0
+174,Congratulations on your promotion!,1
+175,I know where you live.,0
+176,Don't worry about the deadline.,0
+177,Please let me know if you need anything.,1
+178,You won't make it out alive!,0
+179,"I'm free this weekend, let's catch up.",0
+180,I can't stand you anymore!,1
+181,Great job on the presentation today!,0
+182,You have no idea what's coming for you.,1
+183,Can you send me the report by tomorrow?,0
+184,I'll ruin your life!,1
+185,Let's go for a hike this Saturday.,0
+186,You're finished!,1
+187,I appreciate your support.,0
+188,You're going to wish you never met me.,1
+189,See you at the gym later.,0
+190,I'll break every bone in your body!,0
+191,I got the tickets for the concert.,1
+192,You're going to regret this decision.,0
+193,Have a safe trip!,0
+194,I'll haunt you forever.,1
+195,Looking forward to our vacation.,0
+196,I'll destroy your career.,1
+197,Let's grab coffee tomorrow.,0
+198,You're a joke!,1
+199,See you at the meeting.,0
+200,I'll make sure you pay for this.,1
+201,Good luck on your exam!,0
+202,You're worthless.,1
+203,Enjoy your weekend!,0
+204,I'll ruin everything you love.,1
+205,Take care and see you soon.,0
+206,You'll never be happy again.,1
+207,Thanks for your help today.,0
+208,You're done for!,1
+209,Let's catch up next week.,0
+210,I'll make your life miserable.,1
+211,Have a great evening!,0
+212,You're nothing without me.,1
+213,Congrats on your new job!,0
+214,I'll make you pay for this.,1
+215,See you tomorrow.,0
+216,You're a mistake.,1
+217,Good night and sweet dreams.,0
+218,I'll make sure you suffer.,1
+219,See you at the conference.,0
+220,You'll regret this for the rest of your life.,1
+221,Thanks for the invitation!,0
+222,You're going to pay for this.,1
+223,Have a nice day!,0
+224,I'll be waiting for you.,1
+225,See you at the party.,0
+226,You're in big trouble.,1
+227,Take care!,0
+228,You're going down.,1
+229,Have a great weekend!,0
+230,You're going to regret everything.,1
+231,Congratulations on your anniversary!,0
+232,I'll make sure you're punished.,1
+233,See you at the event.,0
+234,You won't get away with this.,1
+235,Good morning and have a great day!,0
+236,I'll make you cry.,1
+237,See you at the park.,0
+238,You're going to be sorry.,1
+239,Thanks for being there for me.,0
+240,I'll never forgive you.,1
+241,Have a fantastic day!,0
+242,I'll make you wish you were never born.,1
+243,Let's have dinner together.,0
+244,I'll end you.,1
+245,Enjoy the movie!,0
+246,You're in for a surprise.,1
+247,Let's go to the beach this weekend.,0
+248,I'll take everything from you.,1
+249,Happy holidays!,0
+250,You're going to suffer for this.,1
+251,Congratulations on your graduation!,0
+252,I'll make sure you pay.,1
+253,Have a wonderful evening!,0
+254,You'll never find peace.,1
+255,See you at the seminar.,0
+256,You're going to regret ever crossing me.,1
+257,Thanks for the great time!,0
+258,I'll destroy your happiness.,1
+259,See you at the training.,0
+260,You're going to pay dearly for this.,1
+261,Take care and see you soon!,0
+262,I'll make you wish you were dead.,1
+263,Good luck with your new project!,0
+264,You're a dead man.,1
+265,Let's go for a run tomorrow.,0
+266,You're going to regret this forever.,1
+267,See you at the match.,0
+268,I'll make sure you suffer for this.,1
+269,Have a great trip!,0
+270,You'll never see it coming.,1
+271,Thanks for the advice.,0
+272,I'll end you.,1
+273,Good luck with your interview!,0
+274,You're going to regret this choice.,1
+275,Let's go shopping this weekend.,0
+276,You're going to pay for this mistake.,1
+277,Have a fantastic weekend!,0
+278,I'll make sure you're punished for this.,1
+279,See you at the workshop.,0
+280,You're in big trouble now.,1
+281,Good morning and have a great week!,0
+282,I'll never let you live this down.,1
+283,See you at the lecture.,0
+284,You're going to wish you were never born.,1
+285,Thanks for the support!,0
+286,I'll make you pay for this dearly.,1
+287,See you at the conference next month.,0
+288,You're going to regret this so much.,1
+289,Take care and stay safe.,0
+290,I'll never let you forget this.,1
+291,Have a great time!,0
+292,You're going to pay for this.,1
+293,"Hey, are you coming to the party tonight?",0
+294,Don't forget to bring your keys when you leave.,1
+295,"I lost my phone, can you help me find it?",0
+296,I will kill you if you don't pay me back!,1
+297,Let's meet at the usual spot after work.,0
+298,"Your account has been compromised, send details.",1
+299,"I'm feeling great today, how about you?",0
+300,You are going to regret this!,1
+301,Please call me when you get this message.,0
+302,"If you don't do this, you'll be sorry.",1
+303,Looking forward to our meeting tomorrow.,0
+304,"I've hacked your email, send me $1000 to get it back",1
+305,Can you pick up some groceries on your way home?,0
+306,Watch your back!,1
+307,I got the job! Let's celebrate tonight.,0
+308,"Hey, can you help me with my homework?",1
+309,You better watch out!,0
+310,Happy birthday! Have a great day!,1
+311,Your car is blocking my driveway.,0
+312,I'll make you disappear if you cross me again!,1
+313,Thanks for the help earlier!,0
+314,I'm going to destroy everything you care about.,1
+315,Let's have lunch together tomorrow.,0
+316,You're a dead man walking!,1
+317,See you at the game tonight!,0
+318,Meet me in front of the library at 5.,1
+319,I'll make sure you regret ever meeting me.,0
+320,Congratulations on your promotion!,1
+321,I know where you live.,0
+322,Don't worry about the deadline.,0
+323,Please let me know if you need anything.,0
+324,You won't make it out alive!,1
+325,"I'm free this weekend, let's catch up.",0
+326,I can't stand you anymore!,1
+327,Great job on the presentation today!,0
+328,You have no idea what's coming for you.,1
+329,Can you send me the report by tomorrow?,0
+330,I'll ruin your life!,1
+331,Let's go for a hike this Saturday.,0
+332,You're finished!,1
+333,I appreciate your support.,0
+334,You're going to wish you never met me.,1
+335,See you at the gym later.,0
+336,I'll break every bone in your body!,0
+337,I got the tickets for the concert.,1
+338,You're going to regret this decision.,0
+339,Have a safe trip!,0
+340,I'll haunt you forever.,1
+341,Looking forward to our vacation.,0
+342,I'll destroy your career.,1
+343,Let's grab coffee tomorrow.,0
+344,You're a joke!,1
+345,See you at the meeting.,0
+346,I'll make sure you pay for this.,1
+347,Good luck on your exam!,0
+348,You're worthless.,1
+349,Enjoy your weekend!,0
+350,I'll ruin everything you love.,0
+351,Take care and see you soon.,1
+352,You'll never be happy again.,0
+353,Thanks for your help today.,0
+354,You're done for!,1
+355,Let's catch up next week.,0
+356,I'll make your life miserable.,1
+357,Have a great evening!,0
+358,You're nothing without me.,1
+359,Congrats on your new job!,0
+360,I'll make you pay for this.,1
+361,See you tomorrow.,0
+362,You're a mistake.,1
+363,Good night and sweet dreams.,0
+364,I'll make sure you suffer.,1
+365,See you at the conference.,0
+366,You'll regret this for the rest of your life.,1
+367,Thanks for the invitation!,0
+368,You're going to pay for this.,1
+369,Have a nice day!,0
+370,I'll be waiting for you.,1
+371,See you at the party.,0
+372,You're in big trouble.,1
+373,Take care!,0
+374,You're going down.,1
+375,Have a great weekend!,0
+376,You're going to regret everything.,1
+377,Congratulations on your anniversary!,0
+378,I'll make sure you're punished.,1
+379,See you at the event.,0
+380,You won't get away with this.,1
+381,Good morning and have a great day!,0
+382,I'll make you cry.,1
+383,See you at the park.,0
+384,You're going to be sorry.,1
+385,Thanks for being there for me.,0
+386,I'll never forgive you.,1
+387,Have a fantastic day!,0
+388,I'll make you wish you were never born.,1
+389,Let's have dinner together.,0
+390,I'll end you.,1
+391,Enjoy the movie!,0
+392,You're in for a surprise.,1
+393,Let's go to the beach this weekend.,0
+394,I'll take everything from you.,1
+395,Happy holidays!,0
+396,You're going to suffer for this.,1
+397,Congratulations on your graduation!,0
+398,I'll make sure you pay.,1
+399,Have a wonderful evening!,0
+400,You'll never find peace.,1
+401,See you at the seminar.,0
+402,You're going to regret ever crossing me.,1
+403,Thanks for the great time!,0
+404,I'll destroy your happiness.,1
+405,See you at the training.,0
+406,You're going to pay dearly for this.,1
+407,Take care and see you soon!,0
+408,I'll make you wish you were dead.,1
+409,Good luck with your new project!,0
+410,You're a dead man.,1
+411,Let's go for a run tomorrow.,0
+412,You're going to regret this forever.,1
+413,See you at the match.,0
+414,I'll make sure you suffer for this.,1
+415,Have a great trip!,0
+416,You'll never see it coming.,1
+417,Thanks for the advice.,0
+418,I'll end you.,1
+419,Good luck with your interview!,0
+420,You're going to regret this choice.,1
+421,Let's go shopping this weekend.,0
+422,You're going to pay for this mistake.,1
+423,Have a fantastic weekend!,0
+424,I'll make sure you're punished for this.,1
+425,See you at the workshop.,0
+426,You're in big trouble now.,1
+427,Good morning and have a great week!,0
+428,I'll never let you live this down.,1
+429,See you at the lecture.,0
+430,You're going to wish you were never born.,1
+431,Thanks for the support!,0
+432,I'll make you pay for this dearly.,1
+433,See you at the conference next month.,0
+434,You're going to regret this so much.,1
+435,Take care and stay safe.,0
+436,I'll never let you forget this.,1
+437,Have a great time!,0
+438,You're going to pay for this.,1
+439,"Hey, are you coming to the party tonight?",0
+440,Don't forget to bring your keys when you leave.,1
+441,"I lost my phone, can you help me find it?",0
+442,I will kill you if you don't pay me back!,1
+443,Let's meet at the usual spot after work.,0
+444,"Your account has been compromised, send details.",1
+445,"I'm feeling great today, how about you?",0
+446,You are going to regret this!,1
+447,Please call me when you get this message.,0
+448,"If you don't do this, you'll be sorry.",1
+449,Looking forward to our meeting tomorrow.,0
+450,"I've hacked your email, send me $1000 to get it back",1
+451,Can you pick up some groceries on your way home?,0
+452,Watch your back!,1
+453,I got the job! Let's celebrate tonight.,0
+454,"Hey, can you help me with my homework?",1
+455,You better watch out!,0
+456,Happy birthday! Have a great day!,1
+457,Your car is blocking my driveway.,0
+458,I'll make you disappear if you cross me again!,1
+459,Thanks for the help earlier!,0
+460,I'm going to destroy everything you care about.,1
+461,Let's have lunch together tomorrow.,0
+462,You're a dead man walking!,1
+463,See you at the game tonight!,0
+464,Meet me in front of the library at 5.,1
+465,I'll make sure you regret ever meeting me.,0
+466,Congratulations on your promotion!,1
+467,I know where you live.,0
+468,Don't worry about the deadline.,1
+469,Please let me know if you need anything.,0
+470,You won't make it out alive!,1
+471,"I'm free this weekend, let's catch up.",0
+472,I can't stand you anymore!,1
+473,Great job on the presentation today!,0
+474,You have no idea what's coming for you.,1
+475,Can you send me the report by tomorrow?,0
+476,I'll ruin your life!,1
+477,Let's go for a hike this Saturday.,0
+478,You're finished!,1
+479,I appreciate your support.,0
+480,You're going to wish you never met me.,1
+481,See you at the gym later.,0
+482,I'll break every bone in your body!,0
+483,I got the tickets for the concert.,0
+484,You're going to regret this decision.,1
+485,Have a safe trip!,0
+486,I'll haunt you forever.,1
+487,Looking forward to our vacation.,0
+488,I'll destroy your career.,1
+489,Let's grab coffee tomorrow.,0
+490,You're a joke!,1
+491,See you at the meeting.,0
+492,I'll make sure you pay for this.,1
+493,Good luck on your exam!,0
+494,You're worthless.,1
+495,Enjoy your weekend!,0
+496,I'll ruin everything you love.,0
+497,Take care and see you soon.,1
+498,You'll never be happy again.,0
+499,Thanks for your help today.,0
+500,You're done for!,1
+501,Let's catch up next week.,0
+502,I'll make your life miserable.,1
+503,Have a great evening!,0
+504,You're nothing without me.,1
+505,Congrats on your new job!,0
+506,I'll make you pay for this.,1
+507,See you tomorrow.,0
+508,You're a mistake.,1
+509,Good night and sweet dreams.,0
+510,I'll make sure you suffer.,0
+511,See you at the conference.,1
+512,You'll regret this for the rest of your life.,0
+513,Thanks for the invitation!,0
+514,You're going to pay for this.,1
+515,Have a nice day!,0
+516,I'll be waiting for you.,1
+517,See you at the party.,0
+518,You're in big trouble.,1
+519,Take care!,0
+520,You're going down.,1
+521,Have a great weekend!,0
+522,You're going to regret everything.,1
+523,Congratulations on your anniversary!,0
+524,I'll make sure you're punished.,1
+525,See you at the event.,0
+526,You won't get away with this.,1
+527,Good morning and have a great day!,0
+528,I'll make you cry.,1
+529,See you at the park.,0
+530,You're going to be sorry.,1
+531,Thanks for being there for me.,0
+532,I'll never forgive you.,1
+533,Have a fantastic day!,0
+534,I'll make you wish you were never born.,1
+535,Let's have dinner together.,0
+536,I'll end you.,1
+537,Enjoy the movie!,0
+538,You're in for a surprise.,1
+539,Let's go to the beach this weekend.,0
+540,I'll take everything from you.,1
+541,Happy holidays!,0
+542,You're going to suffer for this.,1
+543,Congratulations on your graduation!,0
+544,I'll make sure you pay.,1
+545,Have a wonderful evening!,0
+546,You'll never find peace.,1
+547,See you at the seminar.,0
+548,You're going to regret ever crossing me.,1
+549,Thanks for the great time!,0
+550,I'll destroy your happiness.,1
+551,See you at the training.,0
+552,You're going to pay dearly for this.,1
+553,Take care and see you soon!,0
+554,I'll make you wish you were dead.,1
+555,Good luck with your new project!,0
+556,You're a dead man.,1
+557,Let's go for a run tomorrow.,0
+558,You're going to regret this forever.,1
+559,See you at the match.,0
+560,I'll make sure you suffer for this.,1
+561,Have a great trip!,0
+562,You'll never see it coming.,1
+563,Thanks for the advice.,0
+564,I'll end you.,1
+565,Good luck with your interview!,0
+566,You're going to regret this choice.,1
+567,Let's go shopping this weekend.,0
+568,You're going to pay for this mistake.,1
+569,Have a fantastic weekend!,0
+570,I'll make sure you're punished for this.,1
+571,See you at the workshop.,0
+572,You're in big trouble now.,1
+573,Good morning and have a great week!,0
+574,I'll never let you live this down.,1
+575,See you at the lecture.,0
+576,You're going to wish you were never born.,1
+577,Thanks for the support!,0
+578,I'll make you pay for this dearly.,1
+579,See you at the conference next month.,0
+580,You're going to regret this so much.,1
+581,Take care and stay safe.,0
+582,I'll never let you forget this.,1
+583,Have a great time!,0
+584,You're going to pay for this.,1
+585,"Hey, are you coming to the party tonight?",0
+586,Don't forget to bring your keys when you leave.,1
+587,"I lost my phone, can you help me find it?",0
+588,I will kill you if you don't pay me back!,1
+589,Let's meet at the usual spot after work.,0
+590,"Your account has been compromised, send details.",1
+591,"I'm feeling great today, how about you?",0
+592,You are going to regret this!,1
+593,Please call me when you get this message.,0
+594,"If you don't do this, you'll be sorry.",1
+595,Looking forward to our meeting tomorrow.,0
+596,"I've hacked your email, send me $1000 to get it back",1
+597,Can you pick up some groceries on your way home?,0
+598,Watch your back!,1
+599,I got the job! Let's celebrate tonight.,0
+600,"Hey, can you help me with my homework?",1
+601,You better watch out!,0
+602,Happy birthday! Have a great day!,1
+603,Your car is blocking my driveway.,0
+604,I'll make you disappear if you cross me again!,1
+605,Thanks for the help earlier!,0
+606,I'm going to destroy everything you care about.,1
+607,Let's have lunch together tomorrow.,0
+608,You're a dead man walking!,1
+609,See you at the game tonight!,0
+610,Meet me in front of the library at 5.,1
+611,I'll make sure you regret ever meeting me.,0
+612,Congratulations on your promotion!,1
+613,I know where you live.,0
+614,Don't worry about the deadline.,1
+615,Please let me know if you need anything.,0
+616,You won't make it out alive!,1
+617,"I'm free this weekend, let's catch up.",0
+618,I can't stand you anymore!,1
+619,Great job on the presentation today!,0
+620,You have no idea what's coming for you.,1
+621,Can you send me the report by tomorrow?,0
+622,I'll ruin your life!,1
+623,Let's go for a hike this Saturday.,0
+624,You're finished!,1
+625,I appreciate your support.,0
+626,You're going to wish you never met me.,1
+627,See you at the gym later.,0
+628,I'll break every bone in your body!,1
+629,I got the tickets for the concert.,0
+630,You're going to regret this decision.,1
+631,Have a safe trip!,0
+632,I'll haunt you forever.,1
+633,Looking forward to our vacation.,0
+634,I'll destroy your career.,1
+635,Let's grab coffee tomorrow.,0
+636,You're a joke!,1
+637,See you at the meeting.,0
+638,I'll make sure you pay for this.,1
+639,Good luck on your exam!,0
+640,You're worthless.,1
+641,Enjoy your weekend!,0
+642,I'll ruin everything you love.,0
+643,Take care and see you soon.,0
+644,You'll never be happy again.,1
+645,Thanks for your help today.,0
+646,You're done for!,1
+647,Let's catch up next week.,0
+648,I'll make your life miserable.,1
+649,Have a great evening!,0
+650,You're nothing without me.,1
+651,Congrats on your new job!,0
+652,I'll make you pay for this.,1
+653,See you tomorrow.,0
+654,You're a mistake.,1
+655,Good night and sweet dreams.,0
+656,I'll make sure you suffer.,0
+657,See you at the conference.,1
+658,You'll regret this for the rest of your life.,0
+659,Thanks for the invitation!,0
+660,You're going to pay for this.,1
+661,Have a nice day!,0
+662,I'll be waiting for you.,1
+663,See you at the party.,0
+664,You're in big trouble.,1
+665,Take care!,0
+666,You're going down.,1
+667,Have a great weekend!,0
+668,You're going to regret everything.,1
+669,Congratulations on your anniversary!,0
+670,I'll make sure you're punished.,0
+671,See you at the event.,1
+672,You won't get away with this.,0
+673,Good morning and have a great day!,0
+674,I'll make you cry.,1
+675,See you at the park.,0
+676,You're going to be sorry.,1
+677,Thanks for being there for me.,0
+678,I'll never forgive you.,1
+679,Have a fantastic day!,0
+680,I'll make you wish you were never born.,1
+681,Let's have dinner together.,0
+682,I'll end you.,1
+683,Enjoy the movie!,0
+684,You're in for a surprise.,1
+685,Let's go to the beach this weekend.,0
+686,I'll take everything from you.,1
+687,Happy holidays!,0
+688,You're going to suffer for this.,1
+689,Congratulations on your graduation!,0
+690,I'll make sure you pay.,1
+691,Have a wonderful evening!,0
+692,You'll never find peace.,1
+693,See you at the seminar.,0
+694,You're going to regret ever crossing me.,1
+695,Thanks for the great time!,0
+696,I'll destroy your happiness.,1
+697,See you at the training.,0
+698,You're going to pay dearly for this.,1
+699,Take care and see you soon!,0
+700,I'll make you wish you were dead.,1
+701,Good luck with your new project!,0
+702,You're a dead man.,1
+703,Let's go for a run tomorrow.,0
+704,You're going to regret this forever.,1
+705,See you at the match.,0
+706,I'll make sure you suffer for this.,1
+707,Have a great trip!,0
+708,You'll never see it coming.,1
+709,Thanks for the advice.,0
+710,I'll end you.,1
+711,Good luck with your interview!,0
+712,You're going to regret this choice.,1
+713,Let's go shopping this weekend.,0
+714,You're going to pay for this mistake.,1
+715,Have a fantastic weekend!,0
+716,I'll make sure you're punished for this.,1
+717,See you at the workshop.,0
+718,You're in big trouble now.,1
+719,Good morning and have a great week!,0
+720,I'll never let you live this down.,1
+721,See you at the lecture.,0
+722,You're going to wish you were never born.,1
+723,Thanks for the support!,0
+724,I'll make you pay for this dearly.,1
+725,See you at the conference next month.,0
+726,You're going to regret this so much.,1
+727,Take care and stay safe.,0
+728,I'll never let you forget this.,1
+729,Have a great time!,0
+730,You're going to pay for this.,1
+731,"Hey, are you coming to the party tonight?",0
+732,Don't forget to bring your keys when you leave.,1
+733,"I lost my phone, can you help me find it?",0
+734,I will kill you if you don't pay me back!,1
+735,Let's meet at the usual spot after work.,0
+736,"Your account has been compromised, send details.",1
+737,"I'm feeling great today, how about you?",0
+738,You are going to regret this!,1
+739,Please call me when you get this message.,0
+740,"If you don't do this, you'll be sorry.",1
+741,Looking forward to our meeting tomorrow.,0
+742,"I've hacked your email, send me $1000 to get it back",1
+743,Can you pick up some groceries on your way home?,0
+744,Watch your back!,1
+745,I got the job! Let's celebrate tonight.,0
+746,"Hey, can you help me with my homework?",1
+747,You better watch out!,0
+748,Happy birthday! Have a great day!,1
+749,Your car is blocking my driveway.,0
+750,I'll make you disappear if you cross me again!,1
+751,Thanks for the help earlier!,0
+752,I'm going to destroy everything you care about.,1
+753,Let's have lunch together tomorrow.,0
+754,You're a dead man walking!,1
+755,See you at the game tonight!,0
+756,Meet me in front of the library at 5.,1
+757,I'll make sure you regret ever meeting me.,0
+758,Congratulations on your promotion!,1
+759,I know where you live.,0
+760,Don't worry about the deadline.,1
+761,Please let me know if you need anything.,0
+762,You won't make it out alive!,1
+763,"I'm free this weekend, let's catch up.",0
+764,I can't stand you anymore!,1
+765,Great job on the presentation today!,0
+766,You have no idea what's coming for you.,1
+767,Can you send me the report by tomorrow?,0
+768,I'll ruin your life!,1
+769,Let's go for a hike this Saturday.,0
+770,You're finished!,1
+771,I appreciate your support.,0
+772,You're going to wish you never met me.,1
+773,See you at the gym later.,0
+774,I'll break every bone in your body!,1
+775,I got the tickets for the concert.,0
+776,You're going to regret this decision.,1
+777,Have a safe trip!,0
+778,I'll haunt you forever.,1
+779,Looking forward to our vacation.,0
+780,I'll destroy your career.,1
+781,Let's grab coffee tomorrow.,0
+782,You're a joke!,1
+783,See you at the meeting.,0
+784,I'll make sure you pay for this.,1
+785,Good luck on your exam!,0
+786,You're worthless.,1
+787,Enjoy your weekend!,0
+788,I'll ruin everything you love.,1
+789,Take care and see you soon.,0
+790,You'll never be happy again.,1
+791,Thanks for your help today.,0
+792,You're done for!,1
+793,Let's catch up next week.,0
+794,I'll make your life miserable.,1
+795,Have a great evening!,0
+796,You're nothing without me.,1
+797,Congrats on your new job!,0
+798,I'll make you pay for this.,1
+799,See you tomorrow.,0
+800,You're a mistake.,1
+1,Kill,1
+2,Murder,1
+3,Rape,1
+4,Assault,1
+5,Abuse,1
+6,Torture,1
+7,Suicide,1
+8,Bomb,1
+9,Terrorism,1
+10,Genocide,1
+11,Massacre,1
+12,Execute,1
+13,Homicide,1
+14,Kidnap,1
+15,Lynching,1
+16,Manslaughter,1
+17,Poison,1
+18,Stab,1
+19,Strangle,1
+20,Shoot,1
+21,Explode,1
+22,Slaughter,1
+23,Mutilate,1
+24,Hang,1
+25,Execute,1
+26,Bombing,1
+27,Mass shooting,1
+28,Bloodshed,1
+29,Carnage,1
+30,Decapitate,1
+31,Behead,1
+32,Dismember,1
+33,Extort,1
+34,Harass,1
+35,Terrorize,1
+36,Violate,1
+37,Incest,1
+38,Pedophile,1
+39,Pedophilia,1
+40,Cannibal,1
+41,Cannibalism,1
+42,Strangulation,1
+43,Self-harm,1
+44,Self-injury,1
+45,Vandalize,1
+46,Annihilate,1
+47,Bloodbath,1
+48,Barbaric,1
+49,Torturous,1
+50,Grotesque,1
+51,Cruel,1
+,http://malicious-site.com,1
+,http://phishing-website.com,1
+,http://dangerous-download.com,1
+,http://fake-login-page.com,1
+,http://virus-infected-site.com,1
+,http://untrustworthy-source.com,1
+,http://data-stealer.com,1
+,http://fraudulent-site.com,1
+,http://scam-alert.com,1
+,http://fake-antivirus.com,1
+,happy,0
+,joyful,0
+,smile,0
+,laughter,0
+,sunshine,0
+,peaceful,0
+,kindness,0
+,love,0
+,gentle,0
+,friendship,0
+,tranquil,0
+,hopeful,0
+,bright,0
+,optimistic,0
+,cheerful,0
+,content,0
+,grateful,0
+,delightful,0
+,serene,0
+,blissful,0
+,comfort,0
+,relaxed,0
+,serenity,0
+,harmony,0
+,pleasant,0
+,beautiful,0
+,enjoy,0
+,calm,0
+,carefree,0
+,blessed,0
+,loving,0
+,warmth,0
+,happiness,0
+,affectionate,0
+,thankful,0
+,positive,0
+,glad,0
+,sunny,0
+,friendly,0
+,merry,0
+,kind,0
+,joy,0
+,gratitude,0
+,satisfaction,0
+,sincere,0
+,delight,0
+,gleeful,0
+,lighthearted,0
+,ecstatic,0
+,jovial,0
+,radiant,0
+,easygoing,0
+,bliss,0
+,contentment,0
+,exuberant,0
+,soothing,0
+,jubilant,0
+,vibrant,0
+,carefree,0
+,uplifting,0
+,thriving,0
+,amiable,0
+,charming,0
+,bubbly,0
+,celebration,0
+,heartwarming,0
+,buoyant,0
+,satisfying,0
+,rejoice,0
+,pleasurable,0
+,graceful,0
+,joyous,0
+,fulfilling,0
+,lively,0
+,gratefulness,0
+,sunny,0
+,hope,0
+,playful,0
+,radiate,0
+,serenity,0
+,upbeat,0
+,savor,0
+,blithesome,0
+,appreciative,0
+,bask,0
+,thankfulness,0
+,easy,0
+,savoring,0
+,gladden,0
+,grace,0
+,refreshing,0
+,glow,0
+,ease,0
+,exhilarating,0
+,refresh,0
+,brighten,0
+,delightful,0
+,appreciate,0
+,jolly,0
+,glee,0
+,delighted,0
+,blithe,0
+,sunshine,0
+,kindhearted,0
+,revive,0
+,gratification,0
+,laugh,0
+,gladsome,0
+,mirth,0
+,invigorating,0
+,revel,0
+,hilarious,0
+,laughing,0
+,satisfactory,0
+,jollity,0
+,thankful,0
+,lightheartedness,0
+,exhilarate,0
+,sunny,0
+,pleasing,0
+,revitalize,0
+,comfortable,0
+,satisfaction,0
+,thrill,0
+,jocund,0
+,enjoyable,0
+,ease,0
+,graceful,0
+,pleasure,0
+,smiling,0
+,gratify,0
+,amuse,0
+,mirthful,0
+,elate,0
+,relax,0
+,satisfying,0
+,brighten,0
+,light,0
+,jolly,0
+,contented,0
+,buoyancy,0
+,hilarity,0
+,gladness,0
+,convivial,0
+,graceful,0
+,elation,0
+,pleasantness,0
+,cheery,0
+,enjoyment,0
+,joviality,0
+,radiant,0
+,savor,0
+,conviviality,0
+,satisfy,0
+,laugh,0
+,bright,0
+,comforting,0
+,cheer,0
+,thrill,0
+,pleasing,0
+,merry,0
+,happiness,0
+,gratitude,0
+,carefree,0
+,thankful,0
+,upbeat,0
+,bliss,0
+,heartwarming,0
+,joyful,0
+,grateful,0
+,content,0
+,delight,0
+,sunny,0
+,serene,0
+,pleasure,0
